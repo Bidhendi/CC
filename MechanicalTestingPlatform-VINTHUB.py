@@ -1,4 +1,4 @@
-# Open Mechanical Testing Platform
+# Open Mechanical Testing Platform (MTP)
 # Amir J Bidhendi, Email: amir.bidhendi@mcgill.ca
 # The latest version can be found under: https://github.com/Bidhendi/MTP
 
